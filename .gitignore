@@ -4,3 +4,4 @@ one-to-many.sql
 orders_products1.sql
 films3.5.sql
 extrasolar.dump.sql
+many_to_many.sql
